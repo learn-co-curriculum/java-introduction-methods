@@ -101,7 +101,7 @@ function properly. Each parameter in the parameter list needs to be in a
 declaration format as such: `<type> <variableName>`. It is also possible to not
 have a parameter list. An empty parameter list would look like this: `()`. If
 multiple parameters exist, then they are to be separated by a comma `,` between
-each parameter. Example: `cook("eggs", "bacon")`.
+each parameter. Example: `cook(String breakfastItem1, String breafastItem2)`.
 
 In the `public static void main(String[] args)` method, we can see that this
 method does indeed have some parameters associated with it. It looks like the
