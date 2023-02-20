@@ -129,3 +129,7 @@ execute together. Java has some built-in methods that we have been using with
 certain utilities, like the `println()` method and the `nextLine()` method. But
 we can also create our own methods - we'll look more in-depth of reading and
 writing methods in the next few lessons!
+
+## References
+
+- [Oracle Docs: Passing Information to a Method or Constructor](https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html#:~:text=Note%3A%20Parameters%20refers%20to%20the,parameters%20in%20type%20and%20order.)
